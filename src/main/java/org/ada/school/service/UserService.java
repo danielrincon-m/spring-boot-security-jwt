@@ -1,6 +1,6 @@
 package org.ada.school.service;
 
-import org.ada.school.controller.user.UserDto;
+import org.ada.school.dto.UserDto;
 import org.ada.school.exception.UserNotFoundException;
 import org.ada.school.repository.document.User;
 

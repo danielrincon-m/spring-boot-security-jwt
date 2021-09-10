@@ -1,5 +1,6 @@
 package org.ada.school.controller.user;
 
+import org.ada.school.dto.UserDto;
 import org.ada.school.repository.document.User;
 import org.ada.school.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
